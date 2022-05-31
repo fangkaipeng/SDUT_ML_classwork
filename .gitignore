@@ -3,7 +3,7 @@ __pycache__/
 .DS_Store
 *.py[cod]
 *$py.class
-
+dataset/
 # C extensions
 *.so
 
@@ -129,3 +129,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+dataset/flower_data/flower_photos/daisy/6978826370_7b9aa7c7d5.jpg
